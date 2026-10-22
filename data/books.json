@@ -1,0 +1,44 @@
+[
+  {
+    "book_id": "B001",
+    "title": "혼자 공부하는 파이썬",
+    "author": "윤인성",
+    "publisher": "한빛미디어",
+    "genre": "IT/프로그래밍"
+  },
+  {
+    "book_id": "B002",
+    "title": "클린 코드 (Clean Code)",
+    "author": "로버트 C. 마틴",
+    "publisher": "인사이트",
+    "genre": "IT/소프트웨어"
+  },
+  {
+    "book_id": "B003",
+    "title": "객체지향의 사실과 오해",
+    "author": "조영호",
+    "publisher": "위키북스",
+    "genre": "IT/설계"
+  },
+  {
+    "book_id": "B004",
+    "title": "데미안",
+    "author": "헤르만 헤세",
+    "publisher": "민음사",
+    "genre": "고전문학"
+  },
+  {
+    "book_id": "B005",
+    "title": "불편한 편의점",
+    "author": "김호연",
+    "publisher": "나무옆의자",
+    "genre": "소설"
+  },
+  {
+    "book_id": "B006",
+    "title": "코스모스",
+    "author": "칼 세이건",
+    "publisher": "사이언스북스",
+    "genre": "과학"
+  }
+]
